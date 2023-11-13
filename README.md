@@ -15,11 +15,6 @@
 
 
 
-
-## How to reach Me ?
-<a href="https://telegram.dog/starky0"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://telegram.dog/starkbotss"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-
 ## COMMANDS
 ### AVAILABLE COMMANDS 
 ```
