@@ -3,9 +3,6 @@
 ## BATCH EXTRACTOR AND DOWNLOADER
 
 
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/cryptostark/All_In_One/tree/main)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://telegram.dog/starky0)
-
 ## How to Deploy? 🤔
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/UplanderV5)
 - 👆 Press the deploy button.
@@ -43,7 +40,3 @@ forward - To Forward from One
 restart - To restart the bot
 ```
 
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-
-## License
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/cryptostark/All_In_One/blob/main/LICENCE)
