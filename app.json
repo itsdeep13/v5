@@ -2,7 +2,7 @@
 {
     "name": "Allinonebot",
     "description": "ALLINONEBOT",
-    "repository": "https://github.com/meiranbot/UplanderV5",
+    "repository": "https://github.com/itsdeep13/v5/",
     "keywords": [
         "telegram bot",
         "pyrogram"
